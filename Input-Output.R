@@ -19,7 +19,7 @@ rm(list = ls(all.names = TRUE))
 gc() 
 
 #Working directory
-setwd("C:/Users/MTORRESLEON/Dropbox/Alejandra_RA/climate_change/IOT_code")
+setwd("")
 
 ##Packages
 library(tidyverse)
